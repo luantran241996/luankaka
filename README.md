@@ -1,2 +1,0 @@
-# luankaka
-cnc
